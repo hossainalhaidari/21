@@ -1,4 +1,4 @@
-# 21 (Blackjack)
+# Blackjack
 
 CLI-based Blackjack game
 
